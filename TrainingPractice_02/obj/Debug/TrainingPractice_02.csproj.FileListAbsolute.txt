@@ -1,0 +1,10 @@
+E:\project\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe.config
+E:\project\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.exe
+E:\project\TrainingPractice_02\TrainingPractice_02\bin\Debug\TrainingPractice_02.pdb
+E:\project\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csprojAssemblyReference.cache
+E:\project\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.Form1.resources
+E:\project\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.Properties.Resources.resources
+E:\project\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.GenerateResource.cache
+E:\project\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.csproj.CoreCompileInputs.cache
+E:\project\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.exe
+E:\project\TrainingPractice_02\TrainingPractice_02\obj\Debug\TrainingPractice_02.pdb
